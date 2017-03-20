@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B7D9B9645E70ADC6A851B1538C5D6655B1ABFF23",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2CA3E31D48F2B8E3AAED7BD27CFBFB5156E01AEE" : 9223372036854775807,
+    "B7D9B9645E70ADC6A851B1538C5D6655B1ABFF23" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B1D68186-6147-4EE2-9286-D56284CC76B7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2CA3E31D48F2B8E3AAED7BD27CFBFB5156E01AEE" : "..\/..",
+    "B7D9B9645E70ADC6A851B1538C5D6655B1ABFF23" : "TastyToast\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TastyToast",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TastyToast.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/uraimo\/Awesome-Swift-Playgrounds",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CA3E31D48F2B8E3AAED7BD27CFBFB5156E01AEE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kushtaneja\/TastyTost.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B7D9B9645E70ADC6A851B1538C5D6655B1ABFF23"
+    }
+  ]
+}
